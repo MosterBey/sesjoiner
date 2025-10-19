@@ -1,0 +1,9 @@
+{
+    "GUILD_ID": "SUNUCU ID",
+    "VC_CHANNEL": "SES KANALI ID",
+    "MUTED": true,
+    "DEAFEN": true,
+    "VIDEO": true,
+    "STREAM": false,
+    "ACTIVITY": "BOT AÇIKLAMALARI"
+}

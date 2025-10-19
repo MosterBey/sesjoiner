@@ -1,0 +1,13 @@
+{
+  "name": "discord-vc-joiner",
+  "version": "1.0.0",
+  "description": "token",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "ws": "^8.18.0"
+  }
+}
