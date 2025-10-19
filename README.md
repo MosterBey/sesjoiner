@@ -2,4 +2,5 @@
 - mostershop
 
 > YAPMANIZ GEREKENLER: 
-congif.json doldurmanız. ve token.txt satır satır bot tokenlerinizi yazmanız [ LÜTFEN YAZDIĞINIZ TOKENLERİ SUNUCUNUZA EKLEYİN. ]
+congif.json doldurmanız. ve token.txt satır satır bot tokenlerinizi yazmanız.
+ [ LÜTFEN YAZDIĞINIZ TOKENLERİ SUNUCUNUZA EKLEYİN. ]
